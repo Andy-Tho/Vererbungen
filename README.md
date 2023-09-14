@@ -28,7 +28,7 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-[![Screen Shot][product-screenshot]](https://example.com)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
