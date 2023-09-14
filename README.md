@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# HelloWorld
+# Vererbungen
 Author: Krenn Andy <br>
 LBS Eibiswald | 2aAPC
 
