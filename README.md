@@ -3,8 +3,10 @@
 Author: Krenn Andy <br>
 LBS Eibiswald | 2aAPC
 
-Nur eine Demo Anwendung...<br>
-Hier könnte die Anwendung erklärt werden...
+Das Programm benutzt Vererbungen und dient zur Übung <br>
+Man kann einen Mitarbeiter erstellen, dessen Personaldaten bearbeiten <br>
+und einen Lohn angeben. <br><br>
+Kein User- interface/input vorhanden nur hardcode!
 
 ## Installation
 
@@ -28,7 +30,7 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-
+[![Screenshot][product-screenshot]](img.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,4 +43,4 @@ Technologien im Einsatz:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/de/
-[product-screenshot]: images/main.png
+[product-screenshot]: img.png
